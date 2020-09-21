@@ -1,4 +1,4 @@
-# Analysis-of-Spotify-s-Worldwide-Daily-Song-Ranking
+# Analysis of 2017 Spotify Worldwide Daily Song Ranking
 
 Spotify is a music, podcast, and video streaming service that was officially launched on 7 October 2008. It is developed by Spotify AB in Stockholm, Sweden. It provides DRM–protected content from record labels and media companies ###
 
